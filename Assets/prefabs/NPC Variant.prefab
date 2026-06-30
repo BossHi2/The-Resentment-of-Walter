@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7000227323201595096
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 109183067382248031, guid: cb37a13a084b00d499cdcec088f47b65, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.1295532
+      objectReference: {fileID: 0}
+    - target: {fileID: 109183067382248031, guid: cb37a13a084b00d499cdcec088f47b65, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.1295532
+      objectReference: {fileID: 0}
+    - target: {fileID: 109183067382248031, guid: cb37a13a084b00d499cdcec088f47b65, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.1295532
+      objectReference: {fileID: 0}
+    - target: {fileID: 109183067382248031, guid: cb37a13a084b00d499cdcec088f47b65, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.67
+      objectReference: {fileID: 0}
+    - target: {fileID: 109183067382248031, guid: cb37a13a084b00d499cdcec088f47b65, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.92
+      objectReference: {fileID: 0}
+    - target: {fileID: 109183067382248031, guid: cb37a13a084b00d499cdcec088f47b65, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 109183067382248031, guid: cb37a13a084b00d499cdcec088f47b65, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 109183067382248031, guid: cb37a13a084b00d499cdcec088f47b65, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 109183067382248031, guid: cb37a13a084b00d499cdcec088f47b65, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 109183067382248031, guid: cb37a13a084b00d499cdcec088f47b65, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 109183067382248031, guid: cb37a13a084b00d499cdcec088f47b65, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 109183067382248031, guid: cb37a13a084b00d499cdcec088f47b65, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 109183067382248031, guid: cb37a13a084b00d499cdcec088f47b65, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 641123347367751040, guid: cb37a13a084b00d499cdcec088f47b65, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 7.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 641123347367751040, guid: cb37a13a084b00d499cdcec088f47b65, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 12.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1559401881600251952, guid: cb37a13a084b00d499cdcec088f47b65, type: 3}
+      propertyPath: m_text
+      value: 'That was very stupid of you to enter that mansion...
+
+        We are
+        locking it up forever so that no one else suffers.'
+      objectReference: {fileID: 0}
+    - target: {fileID: 1717713622168608096, guid: cb37a13a084b00d499cdcec088f47b65, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6646315787615618441, guid: cb37a13a084b00d499cdcec088f47b65, type: 3}
+      propertyPath: m_Name
+      value: NPC Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 7307783620684655957, guid: cb37a13a084b00d499cdcec088f47b65, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 4118467250843288231, guid: dee4c5f95116ff5489fc5eb5aa31c082, type: 3}
+    - target: {fileID: 7307783620684655957, guid: cb37a13a084b00d499cdcec088f47b65, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8540738252698543866, guid: cb37a13a084b00d499cdcec088f47b65, type: 3}
+      propertyPath: m_text
+      value: 'Police
+
+        (Space to interact)'
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cb37a13a084b00d499cdcec088f47b65, type: 3}
